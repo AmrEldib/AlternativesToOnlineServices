@@ -126,6 +126,12 @@
 	- Open source.
 	- Tracks: web navigation, Facebook, GitHub, Twitter, RunKeeper, Fitbit, more.
 
+## Web Analytics 
+- [Piwik](http://piwik.org/)
+	- Open Source. [Code](https://github.com/piwik/piwik)
+	- [Video](https://www.youtube.com/watch?v=OslfF_EH81g)
+	- PHP, MySQL.
+
 ## PDF Printer
 - [PDFCreator](http://www.pdfforge.org/).
 - [PDF Printer on Linux](http://www.arsgeek.com/2007/05/17/5-steps-to-create-a-pdf-printer-print-to-pdf-in-ubuntu/) 

@@ -89,6 +89,7 @@
 - [OwnCloud](http://owncloud.org/)
 	- Has apps built on top of it, including Calendar and Contacts.
 	- Has sync capabilities.
+- [Pydio](https://pyd.io/)
 - [Tonido](http://tonido.com/) 
 - [OpenMediaVault](http://www.openmediavault.org/about.html) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins.
 	- Very similar to Synology software
@@ -125,6 +126,10 @@
 - [Reportr](http://www.reportr.io/) 
 	- Open source.
 	- Tracks: web navigation, Facebook, GitHub, Twitter, RunKeeper, Fitbit, more.
+
+## Server Management Dashboard
+- [ZPanel](http://www.zpanelcp.com/)
+- [Webmin](http://www.webmin.com/windows.html)
 
 ## Web Analytics 
 - [Piwik](http://piwik.org/)

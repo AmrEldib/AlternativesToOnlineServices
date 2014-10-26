@@ -54,6 +54,7 @@
 ## Alternatives for Google Docs (online browser-based document editing software)
 - [EtherPad](http://etherpad.org/) 
 - [Reveal.js](http://lab.hakim.se/reveal-js/#/) for Presentations 
+- [Hastebin](https://github.com/seejohnrun/haste-server) is an open source [pastebin](http://pastebin.com/) written in node.js
 
 ## RSS Reader
 - [TinyTinyRSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)

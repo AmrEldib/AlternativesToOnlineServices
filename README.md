@@ -195,6 +195,7 @@
 - [VR](http://www.vr.org/plans-and-pricing/)  
 - [IdeaStack](http://ideastack.com/vps.html)   
 - [DME Hosting](http://www.dmehosting.com/openvz-linux-vps.php)  
+- [BuyVM](http://buyvm.net/)
 
 ## Windows VPS Hosting
 - [SoftSys Hosting](http://www.softsyshosting.com/windows-vps.aspx)

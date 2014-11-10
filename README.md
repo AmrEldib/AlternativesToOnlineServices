@@ -94,6 +94,7 @@
 	- Has lots of [apps](http://apps.owncloud.com/).
 - [Pydio](https://pyd.io/)
 - [Tonido](http://tonido.com/) 
+- [Seafile](http://seafile.com/en/home/)
 - [OpenMediaVault](http://www.openmediavault.org/about.html) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins.
 	- Very similar to Synology software
 
@@ -174,7 +175,8 @@
 - [BitTorrent Sync](http://labs.bittorrent.com/experiments/sync.html)
 - [SyncThing](http://syncthing.net/)		
 
-## Pushbullet Clone.
+## Pushbullet Clone
+- Can't find any yet.
 
 ## IDE
 - [Codebox](https://github.com/CodeboxIDE/codebox)

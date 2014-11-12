@@ -2,6 +2,11 @@
 ### [arkOS](https://arkos.io/)
 - Crowd-funded. Open Source.
 
+## One-Click Installer
+- [BitNami](https://bitnami.com/)
+	- [90+ applications](https://bitnami.com/stacks).
+	- Can install on Windows, Linux and Mac.
+
 ## Mail server (with Calendar, Contacts, Tasks, etc.).
 - [Zimbra](http://www.vmware.com/products/zimbra/overview.html) 
 	- [Download](http://www.zimbra.com/downloads/os-downloads.html) 

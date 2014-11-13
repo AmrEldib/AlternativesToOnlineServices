@@ -146,6 +146,7 @@
 ## Server Management Dashboard
 - [ZPanel](http://www.zpanelcp.com/)
 - [Webmin](http://www.webmin.com/windows.html)
+- [Ajenti](http://ajenti.org/)
 
 ## Web Analytics 
 - [Piwik](http://piwik.org/)

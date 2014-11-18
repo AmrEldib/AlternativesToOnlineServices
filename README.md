@@ -65,6 +65,9 @@
 ## RSS Reader
 - [TinyTinyRSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
 	- [Android Client](https://play.google.com/store/apps/details?id=org.fox.ttrss).  
+	- [Secure TinyTinyRSS](http://www.htpcbeginner.com/secure-tt-rss-reader/).
+	- [Themes](http://tt-rss.org/redmine/projects/tt-rss/wiki/Themes).  
+	- [How to Build Your Own Syncing RSS Reader with Tiny Tiny RSS](http://lifehacker.com/5992404/how-to-build-your-own-syncing-rss-reader-with-tiny-tiny-rss-and-kick-google-reader-to-the-curb).  
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) 
 	- [Android Client](https://play.google.com/store/apps/details?id=com.newsblur)
 

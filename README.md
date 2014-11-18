@@ -64,7 +64,9 @@
 
 ## RSS Reader
 - [TinyTinyRSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
+	- [Android Client](https://play.google.com/store/apps/details?id=org.fox.ttrss).  
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) 
+	- [Android Client](https://play.google.com/store/apps/details?id=com.newsblur)
 
 ## IRC
 - [Shout](https://github.com/erming/shout)

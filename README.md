@@ -204,6 +204,9 @@
 	- [List of Commands](https://github.com/embolalia/willie/wiki/Commands).  
 - [Hubot](https://hubot.github.com/).
 	
+## SSL
+- [Let's Encrypt](https://letsencrypt.org/)
+
 ## Resources
 - [PRISM Break](http://prism-break.org/en/)
 	- List of alternatives to onlines services on multiple platforms.

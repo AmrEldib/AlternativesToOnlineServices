@@ -60,6 +60,7 @@
 ## Alternatives for Google Docs (online browser-based document editing software)
 - [EtherPad](http://etherpad.org/) 
 - [Reveal.js](http://lab.hakim.se/reveal-js/#/) for Presentations 
+- [hyhyhy](http://maciejczyzewski.me/hyhyhy/) for presentations. [Source code](https://github.com/MaciejCzyzewski/Hyhyhy). Uses Ruby, produces static pages.  
 - [Hastebin](https://github.com/seejohnrun/haste-server) is an open source [pastebin](http://pastebin.com/) written in node.js
 
 ## RSS Reader

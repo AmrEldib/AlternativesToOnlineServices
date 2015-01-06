@@ -75,12 +75,12 @@
 ## IRC
 - [Shout](https://github.com/erming/shout)
 
-## Instapaper-like service.
-- So far, I can't find any open-source alternatives. Maybe I'll have to build one.
+## Read-It-Later (Instapaper).
 - [Goose](https://github.com/jiminoc/goose/wiki) is an Article Fetching service. It's open source. 
 - [Filo](http://filo.bzaar.net/) 
 	- Simple but cute Instapaper clone. Written in Rails.
 	- It's [open source](https://github.com/bru/filo).
+- [Wallabag](https://github.com/wallabag/wallabag).
 
 ## GTD/ToDo software
 - This is alternative to RTM (Remember The Milk)

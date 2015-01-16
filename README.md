@@ -62,6 +62,7 @@
 - [Reveal.js](http://lab.hakim.se/reveal-js/#/) for Presentations 
 - [hyhyhy](http://maciejczyzewski.me/hyhyhy/) for presentations. [Source code](https://github.com/MaciejCzyzewski/Hyhyhy). Uses Ruby, produces static pages.  
 - [Hastebin](https://github.com/seejohnrun/haste-server) is an open source [pastebin](http://pastebin.com/) written in node.js
+- [Remark](https://github.com/gnab/remark) is a simple, in-browser, markdown-driven slideshow tool. It can be hosted on GitHub gists via [GistDeck](http://gistdeck.github.io/#1) ([Source Code](https://github.com/gistdeck/gistdeck.github.com))
 
 ## RSS Reader
 - [TinyTinyRSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)

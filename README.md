@@ -49,6 +49,10 @@
 - [OpenNote](https://github.com/FoxUSA/OpenNote) 
 - [MagPie](https://github.com/charlesthomas/magpie)
 	- Git-backed Evernote replacement.
+- [Paperwork](http://paperwork.rocks/)
+	- [Source Code](https://github.com/twostairs/paperwork)
+	- OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
+	- [Demo](http://demo.paperwork.rocks/).
 
 ## Bookmark Management
 - [Bookie](https://github.com/bookieio/Bookie)

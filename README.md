@@ -1,6 +1,13 @@
 # Alternatives to Online Services
-### [arkOS](https://arkos.io/)
-- Crowd-funded. Open Source.
+
+## Personal Cloud Platforms
+- [arkOS](https://arkos.io/)
+	- Crowd-funded. Open Source.
+- [Sandstorm](https://sandstorm.io/)
+	- Sandstorm is an open source platform for personal servers.
+	- Sandstorm lets you run your own server and install apps like EtherCalc, GitLab, LibreBoard, Wave, and more as easily as you'd install apps on your phone.
+	- [Apps](https://sandstorm.io/apps/).
+	- Uses a model like Docker for installing apps.
 
 ## One-Click Installer
 - [BitNami](https://bitnami.com/)

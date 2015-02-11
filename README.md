@@ -230,6 +230,9 @@
 - How to access shared folder on home computers from tablet  
 	
 ## Linux VPS Hosting  
+- [Linode](https://www.linode.com/)  
+- [Digital Ocean](https://www.digitalocean.com/)  
+
 - [BeyondVPS](http://www.beyondvps.com/ubuntu-vps/)
 - [A2Hosting](http://www.a2hosting.com/services/vps-hosting/)    
 - [VR](http://www.vr.org/plans-and-pricing/)  

@@ -83,6 +83,7 @@
 	- [How to Build Your Own Syncing RSS Reader with Tiny Tiny RSS](http://lifehacker.com/5992404/how-to-build-your-own-syncing-rss-reader-with-tiny-tiny-rss-and-kick-google-reader-to-the-curb).  
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) 
 	- [Android Client](https://play.google.com/store/apps/details?id=com.newsblur)
+- [Selfoss](http://selfoss.aditu.de/)  
 
 ## IRC
 - [Shout](https://github.com/erming/shout)

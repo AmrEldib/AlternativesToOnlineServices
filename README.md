@@ -34,6 +34,10 @@
 - [Mailur](https://github.com/naspeh/mailur)
 	- Webmail client with Gmail-like conversations.
 
+## Chat
+- [Prosody IM](https://prosody.im/) XMPP Chat Server
+- [Kaiwa](http://getkaiwa.com/) browser-based, HTML5-only chat client
+
 ## Blog
 - [Wordpress](http://wordpress.org/) 
 - [Ghost](https://ghost.org/) 

@@ -37,6 +37,7 @@
 ## Chat
 - [Prosody IM](https://prosody.im/) XMPP Chat Server
 - [Kaiwa](http://getkaiwa.com/) browser-based, HTML5-only chat client
+- [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) Alternative to Slack
 
 ## IRC
 - [Shout](https://github.com/erming/shout)

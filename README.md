@@ -38,6 +38,9 @@
 - [Prosody IM](https://prosody.im/) XMPP Chat Server
 - [Kaiwa](http://getkaiwa.com/) browser-based, HTML5-only chat client
 
+## IRC
+- [Shout](https://github.com/erming/shout)
+
 ## Blog
 - [Wordpress](http://wordpress.org/) 
 - [Ghost](https://ghost.org/) 
@@ -80,17 +83,14 @@
 - [Remark](https://github.com/gnab/remark) is a simple, in-browser, markdown-driven slideshow tool. It can be hosted on GitHub gists via [GistDeck](http://gistdeck.github.io/#1) ([Source Code](https://github.com/gistdeck/gistdeck.github.com))
 
 ## RSS Reader
+- [Selfoss](http://selfoss.aditu.de/)  
 - [TinyTinyRSS](http://tt-rss.org/redmine/projects/tt-rss/wiki)
 	- [Android Client](https://play.google.com/store/apps/details?id=org.fox.ttrss).  
 	- [Secure TinyTinyRSS](http://www.htpcbeginner.com/secure-tt-rss-reader/).
 	- [Themes](http://tt-rss.org/redmine/projects/tt-rss/wiki/Themes).  
 	- [How to Build Your Own Syncing RSS Reader with Tiny Tiny RSS](http://lifehacker.com/5992404/how-to-build-your-own-syncing-rss-reader-with-tiny-tiny-rss-and-kick-google-reader-to-the-curb).  
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) 
-	- [Android Client](https://play.google.com/store/apps/details?id=com.newsblur)
-- [Selfoss](http://selfoss.aditu.de/)  
-
-## IRC
-- [Shout](https://github.com/erming/shout)
+	- [Android Client](https://play.google.com/store/apps/details?id=com.newsblur)  
 
 ## Read-It-Later (Instapaper).
 - [Goose](https://github.com/jiminoc/goose/wiki) is an Article Fetching service. It's open source. 

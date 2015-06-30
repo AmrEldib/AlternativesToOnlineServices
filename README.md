@@ -233,6 +233,15 @@
 ## IDE
 - [Codebox](https://github.com/CodeboxIDE/codebox)
 
+## Source Code Management
+- [Gogs](http://gogs.io/) 
+	- A self-hosted Git service written in Go
+	- [Source code](https://github.com/gogits/gogs/)
+- [GitLab](https://about.gitlab.com/)
+	- Alternative to GitHub.
+	- Runs on Linux
+	- [Features](https://about.gitlab.com/features/)
+
 ## Personal Assistant
 - [Willie](http://willie.dftba.net/) is a simple, lightweight, open source, easy-to-use IRC utility bot, written in Python. It can leave notes for people, give you reminders, check RSS feeds.
 	- [List of Commands](https://github.com/embolalia/willie/wiki/Commands).  

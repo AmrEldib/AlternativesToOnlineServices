@@ -55,7 +55,7 @@
 	- Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
 	- [Source Code](https://github.com/scragg0x/realms-wiki)
 
-## Note Taking Software
+## Note Taking
 - Alternative to OneNote, Evernote, etc.
 - [RedNoteBook](http://rednotebook.sourceforge.net/screenshots.html) 
 	- Desktop-based, no phone apps.
@@ -77,7 +77,8 @@
 - [Shaarli](https://github.com/sebsauvage/Shaarli)
 	- personal, minimalist, super-fast, no-database delicious clone
 
-## Alternatives for Google Docs (online browser-based document editing software)
+## Browser-based Document Editing
+- Alternatives to Google Docs and Office Online
 - [EtherPad](http://etherpad.org/) 
 - [Reveal.js](http://lab.hakim.se/reveal-js/#/) for Presentations 
 - [hyhyhy](http://maciejczyzewski.me/hyhyhy/) for presentations. [Source code](https://github.com/MaciejCzyzewski/Hyhyhy). Uses Ruby, produces static pages.  
@@ -94,12 +95,13 @@
 - [NewsBlur](https://github.com/samuelclay/NewsBlur) 
 	- [Android Client](https://play.google.com/store/apps/details?id=com.newsblur)  
 
-## Read-It-Later (Instapaper).
+## Read-It-Later 
+- Alternatives to Instapaper, Readibility, and Pocket.
+- [Wallabag](https://github.com/wallabag/wallabag).
 - [Goose](https://github.com/jiminoc/goose/wiki) is an Article Fetching service. It's open source. 
 - [Filo](http://filo.bzaar.net/) 
 	- Simple but cute Instapaper clone. Written in Rails.
 	- It's [open source](https://github.com/bru/filo).
-- [Wallabag](https://github.com/wallabag/wallabag).
 
 ## GTD/ToDo software
 - This is alternative to RTM (Remember The Milk)
@@ -128,7 +130,8 @@
 		- [Todo.txt for Android](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch&hl=en) 
 - [Full list](http://mashable.com/2009/01/29/getting-things-done/) of GTD software 
 
-## Cloud Storage: Run your own "Dropbox" server
+## Cloud Storage
+- Run your own Dropbox server
 - [SparkleShare](http://sparkleshare.org/) 
 - [OwnCloud](http://owncloud.org/)
 	- Has apps built on top of it, including Calendar and Contacts.
@@ -166,10 +169,10 @@
 	- [Source Code](https://github.com/quasado/gravit).
 
 ## IFTTT Clone
-- [WhenBot](https://github.com/ottawaruby/whenbot) 
 - [Huginn](https://github.com/cantino/huginn) 
 	- more than IFTTT-clone
 	- [Video](https://vimeo.com/61976251)  
+- [WhenBot](https://github.com/ottawaruby/whenbot) 
 
 ## Personal Dashboard
 - [Reportr](http://www.reportr.io/) 
@@ -188,6 +191,8 @@
 	- PHP, MySQL.
 
 ## VPN Server
+- [OpenVPN](https://openvpn.net/)
+	- [Source code](https://community.openvpn.net/openvpn/wiki/TesterDocumentation)
 - [Pritunl](http://pritunl.com/)
 	- [Source Code](https://github.com/pritunl/pritunl)
 	- Python.
@@ -207,13 +212,13 @@
 	- [Pump.io](http://pump.io/) 
 
 ## Password Manager service
-- Keepass
+- [Keepass](http://keepass.info/)
 - Move Firefox Sync from Mozilla's servers to my own VPS.
 	- http://docs.services.mozilla.com/howtos/run-sync.html
 	- http://thias.marmotte.net/2010/10/firefox-sync-with-your-own-server/ 
 - [Google Wave](http://incubator.apache.org/wave/) (Now, Apache Wave)
 
-## Dairy software
+## Dairy
 - [DayJournal](http://burnsoftware.wordpress.com/dayjournal/) 
 - [Gitbook](https://www.gitbook.io/)
 
@@ -221,7 +226,8 @@
 - [BitTorrent Sync](http://labs.bittorrent.com/experiments/sync.html)
 - [SyncThing](http://syncthing.net/)		
 
-## Pushbullet Clone
+## Push Notification
+- Alternative to Pushbullet
 - Can't find any yet.
 
 ## IDE

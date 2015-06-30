@@ -125,13 +125,16 @@
 		- [Todo.txt for Android](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch&hl=en) 
 - [Full list](http://mashable.com/2009/01/29/getting-things-done/) of GTD software 
 
-## Run your own "Dropbox" server
+## Cloud Storage: Run your own "Dropbox" server
 - [SparkleShare](http://sparkleshare.org/) 
 - [OwnCloud](http://owncloud.org/)
 	- Has apps built on top of it, including Calendar and Contacts.
 	- Has sync capabilities.
 	- Has lots of [apps](http://apps.owncloud.com/).
 - [Pydio](https://pyd.io/)
+- [Camlistore](https://camlistore.org/) is a different kind of storage.
+	- Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem.
+	- Camlistore (Content-Addressable Multi-Layer Indexed Storage) is under active development.
 - [Tonido](http://tonido.com/) 
 - [Seafile](http://seafile.com/en/home/)
 - [OpenMediaVault](http://www.openmediavault.org/about.html) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins.

@@ -116,6 +116,8 @@
 - [Kanboard](http://kanboard.net/)
 	- Kanboard is a simple visual task board software. [Features and screenshots](http://kanboard.net/features).
 	- [Source code](https://github.com/fguillot/kanboard)
+- [Libreboard](https://github.com/libreboard/libreboard)
+	- LibreBoard is an open-source kanban board that let you organize things in cards, and cards in lists.
 - [ToDo.txt](http://www.todotxt.com/) 
 	- UI:
 		- [TodoTxtJs](https://github.com/MartinSGill/TodoTxtJs) 

@@ -112,6 +112,9 @@
 - [TaskFreak](http://www.taskfreak.com/) 
 	- Doesn't have mobile apps.
 	- Doesn't look very good.
+- [Kanboard](http://kanboard.net/)
+	- Kanboard is a simple visual task board software. [Features and screenshots](http://kanboard.net/features).
+	- [Source code](https://github.com/fguillot/kanboard)
 - [ToDo.txt](http://www.todotxt.com/) 
 	- UI:
 		- [TodoTxtJs](https://github.com/MartinSGill/TodoTxtJs) 

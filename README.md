@@ -219,6 +219,9 @@
 - Twitter-like Social Media Network
 	- [StatusNet](http://status.net/) 
 	- [Pump.io](http://pump.io/) 
+- [Movim](https://movim.eu/)
+	- [Source Code](https://github.com/edhelas/movim)
+	- Looks good, based on XMPP, written in PHP
 
 ## Password Manager service
 - [Keepass](http://keepass.info/)

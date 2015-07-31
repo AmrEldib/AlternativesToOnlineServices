@@ -137,6 +137,15 @@
 	- Has apps built on top of it, including Calendar and Contacts.
 	- Has sync capabilities.
 	- Has lots of [apps](http://apps.owncloud.com/).
+- [Cozy](http://cozy.io/en/)
+	- Personal Cloud you can host, customize and fully control
+	- Sync your contacts, calendars and files between your devices and your personal server
+	- [Demo](https://demo.cozycloud.cc/)
+	- [Source Code](https://github.com/cozy/cozy-setup)
+	- Runs on Linux, available for VirtualBox, Docker and DigitalOcean. [Installations](http://cozy.io/en/host/install/).
+	- Looks really good. Built using Node.js
+	- [Built custom apps](http://cozy.io/en/hack/getting-started/)
+	- [Already existing custom apps](http://cozy.io/en/hack/cookbooks/components.html#applications)
 - [Pydio](https://pyd.io/)
 - [Camlistore](https://camlistore.org/) is a different kind of storage.
 	- Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem.

@@ -268,7 +268,9 @@
 
 ## Resources
 - [PRISM Break](http://prism-break.org/en/)
-	- List of alternatives to onlines services on multiple platforms.
+	- List of alternatives to online services on multiple platforms.
+- [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
+	- List of alternatives to online services.
 	
 ## Android Tablet  
 - How to easily share files between tablet and computer.  

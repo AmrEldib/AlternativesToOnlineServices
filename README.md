@@ -222,6 +222,11 @@
 - [Movim](https://movim.eu/)
 	- [Source Code](https://github.com/edhelas/movim)
 	- Looks good, based on XMPP, written in PHP
+- [Heim](https://euphoria.io/)
+	- A real-time community platform.
+	- It looks like a chat room.
+	- [Demo](https://euphoria.io/room/welcome/)
+	- [Source Code](https://github.com/euphoria-io/heim)
 
 ## Password Manager service
 - [Keepass](http://keepass.info/)

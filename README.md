@@ -227,6 +227,10 @@
 	- It looks like a chat room.
 	- [Demo](https://euphoria.io/room/welcome/)
 	- [Source Code](https://github.com/euphoria-io/heim)
+- [Telescope](http://www.telescopeapp.org/)
+    - With Telescope, you can set up a site like Product Hunt or Hacker News in minutes. And you'll then be able to tweak your app's layout, colors, and branding without having to write a single line of code.
+    - Built with Javascript and [Meteor](http://meteor.com/)
+    - [Demo](http://demo2.telescopeapp.org/) and [Source code](https://github.com/TelescopeJS/Telescope)
 
 ## Password Manager service
 - [Keepass](http://keepass.info/)

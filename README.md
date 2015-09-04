@@ -120,6 +120,10 @@
 	- [Source code](https://github.com/fguillot/kanboard)
 - [Libreboard](https://github.com/libreboard/libreboard)
 	- LibreBoard is an open-source kanban board that let you organize things in cards, and cards in lists.
+- [Wekan](https://github.com/wekan/wekan)
+	- Open-source kanban board that let you organize things in cards, and cards in lists.
+	- Written in Javascript.
+	- Deployable to Sandstorm and Docker.
 - [ToDo.txt](http://www.todotxt.com/) 
 	- UI:
 		- [TodoTxtJs](https://github.com/MartinSGill/TodoTxtJs) 

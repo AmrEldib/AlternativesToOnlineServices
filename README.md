@@ -39,6 +39,7 @@
 - [Kaiwa](http://getkaiwa.com/) browser-based, HTML5-only chat client
 - [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) Alternative to Slack
 - [Let's Chat](https://github.com/sdelements/lets-chat) Self-hosted chat app for small teams
+- [Mattermost](http://www.mattermost.org/) is an open source, on-prem Slack-alternative
 
 ## IRC
 - [Shout](https://github.com/erming/shout)
@@ -243,7 +244,7 @@
 	- http://thias.marmotte.net/2010/10/firefox-sync-with-your-own-server/ 
 - [Google Wave](http://incubator.apache.org/wave/) (Now, Apache Wave)
 
-## Dairy
+## Diary
 - [DayJournal](http://burnsoftware.wordpress.com/dayjournal/) 
 - [Gitbook](https://www.gitbook.io/)
 

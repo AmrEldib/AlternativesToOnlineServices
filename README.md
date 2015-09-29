@@ -40,6 +40,7 @@
 - [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) Alternative to Slack
 - [Let's Chat](https://github.com/sdelements/lets-chat) Self-hosted chat app for small teams
 - [Mattermost](http://www.mattermost.org/) is an open source, on-prem Slack-alternative
+- [Zulip](https://github.com/zulip/zulip) powerful open source group chat runs on your own server
 
 ## IRC
 - [Shout](https://github.com/erming/shout)

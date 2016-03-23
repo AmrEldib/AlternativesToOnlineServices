@@ -150,7 +150,7 @@
 	- [Source Code](https://github.com/cozy/cozy-setup)
 	- Runs on Linux, available for VirtualBox, Docker and DigitalOcean. [Installations](https://docs.cozy.io/en/host/install/).
 	- Looks really good. Built using Node.js
-	- [Built custom apps](https://docs.cozy.io/en/hack/getting-started/)
+	- [Built custom apps](https://dev.cozy.io/#getting-started)
 	- [Already existing custom apps](https://docs.cozy.io/en/hack/cookbooks/components.html#applications)
 - [Pydio](https://pydio.com/)
 - [Camlistore](https://camlistore.org/) is a different kind of storage.
@@ -223,7 +223,7 @@
 - [ThinkUp](https://www.thinkup.com/) to collect Tweets and Facebook data. 
 - [Diaspora](http://diasporaproject.org/) Social Network
 - Twitter-like Social Media Network
-	- [StatusNet](https://e14n.com/) 
+	- [GnuSocial (formally StatusNet)](https://gnu.io/social/) 
 	- [Pump.io](http://pump.io/) 
 - [Movim](https://movim.eu/)
 	- [Source Code](https://github.com/movim/movim)
@@ -270,7 +270,7 @@
 	- [Features](https://about.gitlab.com/features/)
 
 ## Personal Assistant
-- [Willie](https://sopel.chat/) is a simple, lightweight, open source, easy-to-use IRC utility bot, written in Python. It can leave notes for people, give you reminders, check RSS feeds.
+- [Sopel (formally Willie)](https://sopel.chat/) is a simple, lightweight, open source, easy-to-use IRC utility bot, written in Python. It can leave notes for people, give you reminders, check RSS feeds.
 	- [List of Commands](https://github.com/sopel-irc/sopel/wiki/Commands).  
 - [Hubot](https://hubot.github.com/).
  

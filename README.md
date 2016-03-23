@@ -15,12 +15,12 @@
 	- Can install on Windows, Linux and Mac.
 
 ## Mail server (with Calendar, Contacts, Tasks, etc.).
-- [Zimbra](http://www.vmware.com/products/zimbra/overview.html) 
-	- [Download](http://www.zimbra.com/downloads/os-downloads.html) 
-	- [Videos](http://www.youtube.com/playlist?list=PL97A379365B6C19BD)  
+- [Zimbra](http://www.vmware.com/products/zimbra.html) 
+	- [Download](https://www.zimbra.com/downloads/zimbra-collaboration-open-source/) 
+	- [Videos](https://www.youtube.com/playlist?list=PL97A379365B6C19BD)  
 - [RoundCube](http://roundcube.net/) 
-	- [Screenshots](http://roundcube.net/screens) 
-	- It's [free](http://en.wikipedia.org/wiki/RoundCube) and [open source](http://trac.roundcube.net/). 
+	- [Screenshots](http://roundcube.net/screens/) 
+	- It's [free](https://en.wikipedia.org/wiki/RoundCube) and [open source](http://trac.roundcube.net/). 
 - [SmarterMail](http://www.smartertools.com/smartermail/webmail-server.aspx) (only for Windows)
 	- There's a [free edition](http://www.smartertools.com/free-editions.aspx) that is fully functional.
 	- It has an [API](http://help.smartertools.com/smartermail/v2/Default.aspx?qq=%2fSmarterMail%2fv2%2fTopics%2fSystemAdmin%2fMisc%2fWebServices.aspx) (sort of).
@@ -46,7 +46,7 @@
 - [Shout](https://github.com/erming/shout)
 
 ## Blog
-- [Wordpress](http://wordpress.org/) 
+- [Wordpress](https://wordpress.org/) 
 - [Ghost](https://ghost.org/) 
 
 ## Wiki
@@ -63,7 +63,7 @@
 	- Desktop-based, no phone apps.
 	- Cross-platform, open source.
 - Good example is [Workflowy](https://workflowy.com/) but it's not open source and can't be self-hosted.
-- [LittleOutliner](http://smallpicture.com/outlinerHowto.html) 
+- [LittleOutliner](http://fargo.io/docs/outlinerHowto.html) 
 - [OpenNote](https://github.com/FoxUSA/OpenNote) 
 - [MagPie](https://github.com/charlesthomas/magpie)
 	- Git-backed Evernote replacement.
@@ -107,8 +107,8 @@
 
 ## GTD/ToDo software
 - This is alternative to RTM (Remember The Milk)
-- [TaskBoard](http://taskboard.matthewross.me/)
-	- A [Kanban](http://en.wikipedia.org/wiki/Kanban_board)-inspired app for keeping track of things that need to get done.
+- [TaskBoard](https://taskboard.matthewross.me/)
+	- A [Kanban](https://en.wikipedia.org/wiki/Kanban_board)-inspired app for keeping track of things that need to get done.
 	- Looks like [Trello](https://trello.com/) which is very good.
 	- You can create multiple boards and multiple sections in each board.
 	- Has an API.
@@ -120,7 +120,7 @@
 - [Kanboard](http://kanboard.net/)
 	- Kanboard is a simple visual task board software. [Features and screenshots](http://kanboard.net/features).
 	- [Source code](https://github.com/fguillot/kanboard)
-- [Libreboard](https://github.com/libreboard/libreboard)
+- [Libreboard](https://github.com/wekan/wekan)
 	- LibreBoard is an open-source kanban board that let you organize things in cards, and cards in lists.
 - [Wekan](https://github.com/wekan/wekan)
 	- Open-source kanban board that let you organize things in cards, and cards in lists.
@@ -130,7 +130,7 @@
 	- UI:
 		- [TodoTxtJs](https://github.com/MartinSGill/TodoTxtJs) 
 		- [HTML5](https://github.com/infews/bulldog) 
-		- [DayTasks](http://burnsoftware.wordpress.com/daytasks/) (Desktop client for Linux) 
+		- [DayTasks](https://burnsoftware.wordpress.com/daytasks/) (Desktop client for Linux) 
 	- Mobile Apps
 		- [Todo.txt for Windows Phone 7](http://www.windowsphone.com/en-US/apps/50b1ca07-7e23-4963-a0ba-1536e6913543?wa=wsignin1.0) 
 		- [Todo.txt for Android](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch&hl=en) 
@@ -139,7 +139,7 @@
 ## Cloud Storage
 - Run your own Dropbox server
 - [SparkleShare](http://sparkleshare.org/) 
-- [OwnCloud](http://owncloud.org/)
+- [OwnCloud](https://owncloud.org/)
 	- Has apps built on top of it, including Calendar and Contacts.
 	- Has sync capabilities.
 	- Has lots of [apps](http://apps.owncloud.com/).
@@ -148,16 +148,16 @@
 	- Sync your contacts, calendars and files between your devices and your personal server
 	- [Demo](https://demo.cozycloud.cc/)
 	- [Source Code](https://github.com/cozy/cozy-setup)
-	- Runs on Linux, available for VirtualBox, Docker and DigitalOcean. [Installations](http://cozy.io/en/host/install/).
+	- Runs on Linux, available for VirtualBox, Docker and DigitalOcean. [Installations](https://docs.cozy.io/en/host/install/).
 	- Looks really good. Built using Node.js
-	- [Built custom apps](http://cozy.io/en/hack/getting-started/)
-	- [Already existing custom apps](http://cozy.io/en/hack/cookbooks/components.html#applications)
-- [Pydio](https://pyd.io/)
+	- [Built custom apps](https://docs.cozy.io/en/hack/getting-started/)
+	- [Already existing custom apps](https://docs.cozy.io/en/hack/cookbooks/components.html#applications)
+- [Pydio](https://pydio.com/)
 - [Camlistore](https://camlistore.org/) is a different kind of storage.
 	- Camlistore is a set of open source formats, protocols, and software for modeling, storing, searching, sharing and synchronizing data in the post-PC era. Data may be files or objects, tweets or 5TB videos, and you can access it via a phone, browser or FUSE filesystem.
 	- Camlistore (Content-Addressable Multi-Layer Indexed Storage) is under active development.
-- [Tonido](http://tonido.com/) 
-- [Seafile](http://seafile.com/en/home/)
+- [Tonido](http://www.tonido.com/) 
+- [Seafile](https://www.seafile.com/en/home/)
 - [OpenMediaVault](http://www.openmediavault.org/about.html) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins.
 	- Very similar to Synology software
 
@@ -180,7 +180,7 @@
 
 ## Design tool
 - [Gravit](http://hub.gravit.io/browser/).
-	- [Features](http://gravit.io/)
+	- [Features](https://gravit.io/)
 	- [Source Code](https://github.com/quasado/gravit).
 
 ## IFTTT Clone
@@ -220,13 +220,13 @@
 - [Shrinkr](http://shrinkr.codeplex.com/) 	
 
 ## Social Network
-- [ThinkUp](http://thinkupapp.com/) to collect Tweets and Facebook data. 
+- [ThinkUp](https://www.thinkup.com/) to collect Tweets and Facebook data. 
 - [Diaspora](http://diasporaproject.org/) Social Network
 - Twitter-like Social Media Network
-	- [StatusNet](http://status.net/) 
+	- [StatusNet](https://e14n.com/) 
 	- [Pump.io](http://pump.io/) 
 - [Movim](https://movim.eu/)
-	- [Source Code](https://github.com/edhelas/movim)
+	- [Source Code](https://github.com/movim/movim)
 	- Looks good, based on XMPP, written in PHP
 - [Heim](https://euphoria.io/)
 	- A real-time community platform.
@@ -235,7 +235,7 @@
 	- [Source Code](https://github.com/euphoria-io/heim)
 - [Telescope](http://www.telescopeapp.org/)
     - With Telescope, you can set up a site like Product Hunt or Hacker News in minutes. And you'll then be able to tweak your app's layout, colors, and branding without having to write a single line of code.
-    - Built with Javascript and [Meteor](http://meteor.com/)
+    - Built with Javascript and [Meteor](https://www.meteor.com/)
     - [Demo](http://demo2.telescopeapp.org/) and [Source code](https://github.com/TelescopeJS/Telescope)
 
 ## Password Manager service
@@ -246,12 +246,12 @@
 - [Google Wave](http://incubator.apache.org/wave/) (Now, Apache Wave)
 
 ## Diary
-- [DayJournal](http://burnsoftware.wordpress.com/dayjournal/) 
+- [DayJournal](https://burnsoftware.wordpress.com/dayjournal/) 
 - [Gitbook](https://www.gitbook.io/)
 
 ## Peer-to-Peer Sync
 - [BitTorrent Sync](http://labs.bittorrent.com/experiments/sync.html)
-- [SyncThing](http://syncthing.net/)		
+- [SyncThing](https://syncthing.net/)		
 
 ## Push Notification
 - Alternative to Pushbullet
@@ -261,7 +261,7 @@
 - [Codebox](https://github.com/CodeboxIDE/codebox)
 
 ## Source Code Management
-- [Gogs](http://gogs.io/) 
+- [Gogs](https://gogs.io/) 
 	- A self-hosted Git service written in Go
 	- [Source code](https://github.com/gogits/gogs/)
 - [GitLab](https://about.gitlab.com/)
@@ -270,8 +270,8 @@
 	- [Features](https://about.gitlab.com/features/)
 
 ## Personal Assistant
-- [Willie](http://willie.dftba.net/) is a simple, lightweight, open source, easy-to-use IRC utility bot, written in Python. It can leave notes for people, give you reminders, check RSS feeds.
-	- [List of Commands](https://github.com/embolalia/willie/wiki/Commands).  
+- [Willie](https://sopel.chat/) is a simple, lightweight, open source, easy-to-use IRC utility bot, written in Python. It can leave notes for people, give you reminders, check RSS feeds.
+	- [List of Commands](https://github.com/sopel-irc/sopel/wiki/Commands).  
 - [Hubot](https://hubot.github.com/).
  
 ## Public Datasets
@@ -282,7 +282,7 @@
 - [StartSSL](http://www.startssl.com/)
 
 ## Resources
-- [PRISM Break](http://prism-break.org/en/)
+- [PRISM Break](https://prism-break.org/en/)
 	- List of alternatives to online services on multiple platforms.
 - [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted)
 	- List of alternatives to online services.
@@ -296,14 +296,14 @@
 - [Digital Ocean](https://www.digitalocean.com/)  
 
 - [BeyondVPS](http://www.beyondvps.com/ubuntu-vps/)
-- [A2Hosting](http://www.a2hosting.com/services/vps-hosting/)    
+- [A2Hosting](https://www.a2hosting.com/vps-hosting)    
 - [VR](http://www.vr.org/plans-and-pricing/)  
 - [IdeaStack](http://ideastack.com/vps.html)   
 - [DME Hosting](http://www.dmehosting.com/openvz-linux-vps.php)  
 - [BuyVM](http://buyvm.net/)
 
 ## Windows VPS Hosting
-- [SoftSys Hosting](http://www.softsyshosting.com/windows-vps.aspx)
+- [SoftSys Hosting](https://www.softsyshosting.com/windows-vps/)
 
 [Tips on choosing a host](http://www.betterprogramming.com/ubuntu-lucid-vps-hosting.html)
 
@@ -315,4 +315,4 @@ Search for hosting offers on forums like:
 
 - [http://www.webhostingtalk.com](http://www.webhostingtalk.com)   
 - [http://www.webhostingtalk.com/forumdisplay.php?f=104](http://www.webhostingtalk.com/forumdisplay.php?f=104)  
-- [http://www.lowendbox.com](http://www.lowendbox.com)  
+- [https://lowendbox.com/](http://www.lowendbox.com)  

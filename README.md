@@ -255,7 +255,9 @@
 
 ## Push Notification
 - Alternative to Pushbullet
-- Can't find any yet.
+- [Pushjet](https://pushjet.io/)
+	- Open source with [number of projects](https://github.com/Pushjet)
+	- Has a [Server API](https://github.com/Pushjet/Pushjet-Server-Api) written in Python, and an [Android client](https://github.com/Pushjet/Pushjet-Android)
 
 ## IDE
 - [Codebox](https://github.com/CodeboxIDE/codebox)

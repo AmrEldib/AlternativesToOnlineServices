@@ -8,6 +8,8 @@
 	- Sandstorm lets you run your own server and install apps like EtherCalc, GitLab, LibreBoard, Wave, and more as easily as you'd install apps on your phone.
 	- [Apps](https://sandstorm.io/apps/).
 	- Uses a model like Docker for installing apps.
+- [YunoHost](https://yunohost.org/)
+	- Debian-based distro aiming to make self-hosting accessible to everyone.
 
 ## One-Click Installer
 - [BitNami](https://bitnami.com/)

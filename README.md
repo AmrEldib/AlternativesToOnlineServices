@@ -163,6 +163,9 @@
 - [OpenMediaVault](http://www.openmediavault.org/about.html) is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins.
 	- Very similar to Synology software
 
+## Newsletter
+- [Mailtrain](https://github.com/andris9/mailtrain)
+
 ## Remote Desktop Service
 - LogMeIn
 - TeamViewer

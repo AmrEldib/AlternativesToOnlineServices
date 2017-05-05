@@ -67,17 +67,19 @@
 - Good example is [Workflowy](https://workflowy.com/) but it's not open source and can't be self-hosted.
 - [LittleOutliner](http://fargo.io/docs/outlinerHowto.html) 
 - [OpenNote](https://github.com/FoxUSA/OpenNote) 
-- [MagPie](https://github.com/charlesthomas/magpie)
-	- Git-backed Evernote replacement.
+- ~~[MagPie](https://github.com/charlesthomas/magpie)~~
+	- ~~Git-backed Evernote replacement~~.
+	- No longer under active development. [More info](https://github.com/charlesthomas/magpie#security-notice).  
 - [Paperwork](http://paperwork.rocks/)
 	- [Source Code](https://github.com/twostairs/paperwork)
 	- OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep.
 	- [Demo](http://demo.paperwork.rocks/).
 
 ## Bookmark Management
-- [Bookie](https://github.com/bookieio/Bookie)
-	- Python based delicious.com replacement
-	- [Demo](https://bmark.us/)
+- ~~[Bookie](https://github.com/bookieio/Bookie)~~
+	- ~~Python based delicious.com replacement~~
+	- ~~[Demo](https://bmark.us/)~~
+	- No longer active. Demo website is down.  
 - [Shaarli](https://github.com/sebsauvage/Shaarli)
 	- personal, minimalist, super-fast, no-database delicious clone
 
@@ -103,9 +105,10 @@
 - Alternatives to Instapaper, Readibility, and Pocket.
 - [Wallabag](https://github.com/wallabag/wallabag).
 - [Goose](https://github.com/jiminoc/goose/wiki) is an Article Fetching service. It's open source. 
-- [Filo](http://filo.bzaar.net/) 
-	- Simple but cute Instapaper clone. Written in Rails.
-	- It's [open source](https://github.com/bru/filo).
+- ~~[Filo](http://filo.bzaar.net/) ~~
+	- ~~Simple but cute Instapaper clone. Written in Rails~~.
+	- ~~It's [open source](https://github.com/bru/filo)~~.
+	- No longer active. Demo site is down.  
 
 ## GTD/ToDo software
 - This is alternative to RTM (Remember The Milk)
@@ -176,6 +179,7 @@
 - [Trovebox (formally OpenPhoto)](https://trovebox.com/)
 	- [Community Edition](https://github.com/photo).
 	- Has mobile apps: [Android](https://github.com/photo/mobile-android).
+	- Company has [shut down in March 2015](https://en.wikipedia.org/wiki/Trovebox).  
 - [Lychee - Photo Management Server](https://github.com/electerious/Lychee)
 	- [Demo](http://electerious.com/lychee_demo/)
 
@@ -184,20 +188,14 @@
 	- [Demo](http://my-mind.github.io/?url=examples%2Ffeatures.mymind)
 
 ## Design tool
-- [Gravit](http://hub.gravit.io/browser/).
-	- [Features](https://gravit.io/)
-	- [Source Code](https://github.com/quasado/gravit).
+- [Gravit](https://gravit.io/).
+	- [Source Code](https://github.com/OliBridgman/gravit).
 
 ## IFTTT Clone
 - [Huginn](https://github.com/cantino/huginn) 
 	- more than IFTTT-clone
 	- [Video](https://vimeo.com/61976251)  
 - [WhenBot](https://github.com/ottawaruby/whenbot) 
-
-## Personal Dashboard
-- [Reportr](http://www.reportr.io/) 
-	- Open source.
-	- Tracks: web navigation, Facebook, GitHub, Twitter, RunKeeper, Fitbit, more.
 
 ## Server Management Dashboard
 - [ZPanel](http://www.zpanelcp.com/)
@@ -217,16 +215,12 @@
 	- [Source Code](https://github.com/pritunl/pritunl)
 	- Python.
 
-## PDF Printer
-- [PDFCreator](http://www.pdfforge.org/).
-- [PDF Printer on Linux](http://www.arsgeek.com/2007/05/17/5-steps-to-create-a-pdf-printer-print-to-pdf-in-ubuntu/) 
-
 ## Link shortening service
 - [Shrinkr](http://shrinkr.codeplex.com/) 	
 
 ## Social Network
-- [ThinkUp](https://www.thinkup.com/) to collect Tweets and Facebook data. 
-- [Diaspora](http://diasporaproject.org/) Social Network
+- ~~[ThinkUp](https://www.thinkup.com/) to collect Tweets and Facebook data.~~ No longer available.   
+- [Diaspora](https://diasporafoundation.org/) Social Network
 - Twitter-like Social Media Network
 	- [GnuSocial (formally StatusNet)](https://gnu.io/social/) 
 	- [Pump.io](http://pump.io/) 
@@ -264,9 +258,6 @@
 	- Open source with [number of projects](https://github.com/Pushjet)
 	- Has a [Server API](https://github.com/Pushjet/Pushjet-Server-Api) written in Python, and an [Android client](https://github.com/Pushjet/Pushjet-Android)
 
-## IDE
-- [Codebox](https://github.com/CodeboxIDE/codebox)
-
 ## Source Code Management
 - [Gogs](https://gogs.io/) 
 	- A self-hosted Git service written in Go
@@ -286,7 +277,6 @@
 
 ## SSL
 - [Let's Encrypt](https://letsencrypt.org/)
-- [StartSSL](http://www.startssl.com/)
 
 ## Resources
 - [PRISM Break](https://prism-break.org/en/)
@@ -305,7 +295,6 @@
 - [BeyondVPS](http://www.beyondvps.com/ubuntu-vps/)
 - [A2Hosting](https://www.a2hosting.com/vps-hosting)    
 - [VR](http://www.vr.org/plans-and-pricing/)  
-- [IdeaStack](http://ideastack.com/vps.html)   
 - [DME Hosting](http://www.dmehosting.com/openvz-linux-vps.php)  
 - [BuyVM](http://buyvm.net/)
 

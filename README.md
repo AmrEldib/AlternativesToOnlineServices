@@ -5,7 +5,7 @@
 	- ~~Crowd-funded. Open Source.~~
 - [Sandstorm](https://sandstorm.io/)
 	- Sandstorm is an open source platform for personal servers.
-	- Sandstorm lets you run your own server and install apps like EtherCalc, GitLab, LibreBoard, Wave, and more as easily as you'd install apps on your phone.
+	- Sandstorm lets you run your own server and install apps like EtherCalc, GitLab, Wekan, Wave, and more as easily as you'd install apps on your phone.
 	- [Apps](https://sandstorm.io/apps/).
 	- Uses a model like Docker for installing apps.
 - [YunoHost](https://yunohost.org/)
@@ -125,11 +125,9 @@
 - [Kanboard](http://kanboard.net/)
 	- Kanboard is a simple visual task board software. [Features and screenshots](http://kanboard.net/features).
 	- [Source code](https://github.com/fguillot/kanboard)
-- [Libreboard](https://github.com/wekan/wekan)
-	- LibreBoard is an open-source kanban board that let you organize things in cards, and cards in lists.
 - [Wekan](https://github.com/wekan/wekan)
 	- Open-source kanban board that let you organize things in cards, and cards in lists.
-	- Written in Javascript.
+	- Written in [Meteor Javascript Framework](https://www.meteor.com), using Node.js and MongoDB.
 	- Deployable to Sandstorm and Docker.
 - [ToDo.txt](http://www.todotxt.com/) 
 	- UI:
